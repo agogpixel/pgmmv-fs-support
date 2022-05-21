@@ -1,0 +1,25 @@
+{
+  "$schema": "https://typedoc.org/schema.json",
+  "entryPoints": [
+    "./src/file-system-module/operations/append-file",
+    "./src/file-system-module/operations/create-directory",
+    "./src/file-system-module/operations/read-file",
+    "./src/file-system-module/operations/read-file-size",
+    "./src/file-system-module/operations/remove-directory",
+    "./src/file-system-module/operations/remove-file",
+    "./src/file-system-module/operations/rename-file",
+    "./src/file-system-module/operations/write-file",
+    "./src/file-system-module/operations/base-exclusive-file-system-operation.interface.ts",
+    "./src/file-system-module/operations/base-file-system-operation-payload.interface.ts",
+    "./src/file-system-module/operations/base-shared-file-system-operation.interface.ts",
+    "./src/file-system-module/operations/exclusive-file-system-operation-payload-union.type.ts",
+    "./src/file-system-module/operations/exclusive-file-system-operation-union.type.ts",
+    "./src/file-system-module/operations/shared-file-system-operation-payload-union.type.ts",
+    "./src/file-system-module/operations/shared-file-system-operation-union.type.ts",
+    "./src/file-system-module/operations",
+    "./src/file-system-module/file-system-module.type.ts",
+    "./src/file-system-module",
+    "./src"
+  ],
+  "out": "dist/docs"
+}
