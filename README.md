@@ -8,4 +8,8 @@
 
 <hr>
 
-Filesystem support for Pixel Game Maker MV scripting.
+File system support for Pixel Game Maker MV scripting.
+
+## License
+
+Licensed under the [MIT License](./LICENSE).
