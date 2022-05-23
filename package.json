@@ -29,7 +29,7 @@
     "@agogpixel/pgmmv-ts": ">=0.7.0"
   },
   "dependencies": {
-    "@agogpixel/pgmmv-resource-support": "~0.4.0"
+    "@agogpixel/pgmmv-resource-support": "~0.5.0"
   },
   "devDependencies": {
     "@agogpixel/cavy": "~0.1.1",
